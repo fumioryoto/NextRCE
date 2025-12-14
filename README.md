@@ -1,16 +1,6 @@
 # NextRce - Next.js RSC Exploit Tool (CVE-2025-55182)
 
-<div align="center">
-  <img src="" alt="NextRce Logo" width="600px">
-  <br><br>
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Vulnerability](https://img.shields.io/badge/Vulnerability-RCE-red?style=for-the-badge)](https://nvd.nist.gov/)
-[![WAF Bypass](https://img.shields.io/badge/WAF%20Bypass-UTF--16LE-magenta?style=for-the-badge)](https://github.com/ynsmroztas/NextRce)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Twitter](https://img.shields.io/badge/Twitter-@ynsmroztas-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/ynsmroztas)
-
-  <h3>Advanced Vulnerability Scanner & Exploiter for Next.js App Router</h3>
+<h3>Advanced Vulnerability Scanner & Exploiter for Next.js App Router</h3>
   
   <p>
     <b>Developed by <a href="https://t.me/fumioryoto">Orions-Hunter</a></b>
@@ -126,4 +116,3 @@ NextRce is developed and maintained by Orions-Hunter.
 
 GitHub: fumioryoto
 
-```
