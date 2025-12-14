@@ -26,7 +26,7 @@ Standard payloads containing keywords like `child_process` or `execSync` are oft
 **NextRCSWaff.py** utilizes a specialized **UTF-16LE (Little Endian)** encoding engine. By encoding the malicious payload in this specific format, the byte sequence changes completely, rendering it invisible to most signature-based WAFs. However, the Next.js (Node.js) server correctly decodes and executes the command.
 
 <div align="center">
-  <img src="https://github.com/ynsmroztas/NextRce/blob/main/waf-next-js.jpg" alt="WAF Bypass Proof of Concept" width="850px">
+  <img src="" alt="WAF Bypass Proof of Concept" width="850px">
   <p><i>Proof of Concept: The screenshot above demonstrates a standard payload being blocked (top), followed by a successful RCE execution using NextRCSWaff.py with the --bypass flag (bottom).</i></p>
 </div>
 
