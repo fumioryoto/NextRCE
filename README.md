@@ -1,5 +1,5 @@
+<p align="center"><img src="https://github.com/fumioryoto/NextRCE/blob/main/images.jpeg" width="70%" height="auto"/></p>
 # NextRce - Next.js RSC Exploit Tool (CVE-2025-55182)
-
 <h3>Advanced Vulnerability Scanner & Exploiter for Next.js App Router</h3>
   
   <p>
@@ -56,7 +56,7 @@ Next.js App Router utilizes a custom serialization format for React Server Compo
 
 ```bash
 # Clone the repository
-git clone [https://github.com/fumioryoto/NextRCE.git](https://github.com/fumioryoto/NextRCE.git)
+git clone https://github.com/fumioryoto/NextRCE.git
 
 # Navigate to the directory
 cd NextRce
